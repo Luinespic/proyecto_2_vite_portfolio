@@ -10,6 +10,7 @@
   height: 250px;
   border-radius: 0.4rem;
   object-fit: cover;
+  object-position: top;
 }
 .project-card > .header {
   display: flex;
