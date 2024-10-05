@@ -18,6 +18,7 @@ export const projects = [
     link: "www.proyecto1.com",
   },
 ];
+
 //   {
 //     title: "Tercer proyecto",
 //     description: "Esta es la descripción de mi tercer proyecto",
