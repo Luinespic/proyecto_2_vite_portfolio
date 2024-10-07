@@ -1,4 +1,4 @@
-import "./Navbar.css";
+import "./navbar.css";
 
 export const Navbar = () => `
 <nav>
@@ -11,7 +11,7 @@ export const Navbar = () => `
         <a href="#" id="projectslink">Projects</a>
     </li>
      <li>
-        <a href="#" id="aboutlink">About</a>
+        <a href="#" id="resumelink">Resume</a>
     </li>
     <li>
         <button id="themeBtn">☀</button>
