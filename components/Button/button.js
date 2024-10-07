@@ -1,4 +1,4 @@
-import "./Button.css";
+import "./button.css";
 
 export const Button = (icon, text, link) => `
 <a href="${link}" target="_blank">
