@@ -1,4 +1,4 @@
-import "./Footer.css";
+import "./footer.css";
 import { Button } from "../Button/button";
 
 export const Footer = () => `
