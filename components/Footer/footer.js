@@ -9,7 +9,7 @@ ${Button("/public/github.jpeg", "GitHub", "https://github.com/luinespic/")}
 ${Button(
   "/public/linkedin.jpeg",
   "LinkedIn",
-  "https://www.linkedin.com/in/lucía-iñesta-picó/"
+  "www.linkedin.com/in/lucia-inesta",
 )}
 </div>
 `;
