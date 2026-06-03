@@ -7,7 +7,7 @@ export const Footer = () => `
 <div>
 ${Button("/public/github.jpeg", "GitHub", "https://github.com/luinespic/")}
 ${Button(
-  "/public/linkedin.jpeg",
+  "../../public/linkedin.jpeg",
   "LinkedIn",
   "https://www.linkedin.com/in/lucia-inesta",
 )}
